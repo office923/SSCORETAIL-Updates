@@ -3,16 +3,9 @@
                   {
                       "name":  "SSCORETAIL.exe",
                       "type":  "EXE",
-                      "checksum":  "c3b46a0ce50bb5c68874b60d3d2a8729",
-                      "size":  7786496,
+                      "checksum":  "88e1b4d33d1f489f92be5db60ddb3189",
+                      "size":  7790592,
                       "url":  "https://raw.githubusercontent.com/office923/SSCORETAIL-Updates/main/SSCORETAIL.exe"
-                  },
-                  {
-                      "name":  "CounterGroupStock_Summary3_old.rpt",
-                      "type":  "RPT",
-                      "checksum":  "5529e58cbd214cc5635eab4e408c5d9c",
-                      "size":  213292,
-                      "url":  "https://raw.githubusercontent.com/office923/SSCORETAIL-Updates/main/CounterGroupStock_Summary3_old.rpt"
                   }
               ]
 }
